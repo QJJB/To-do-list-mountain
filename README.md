@@ -20,6 +20,10 @@
     ```php 
         php artisan serve
     ```
+- Si vous avez l'erreur: "No application encryption key has been specified.", faite la commande:
+    ```php 
+        php artisan key:generate
+    ```
 ## Dans le dossier frontend:
 
 - Dans le dossier frontend, installer les packages avec la commande:
