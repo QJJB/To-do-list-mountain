@@ -9,9 +9,13 @@
         "php": "^8.2",
         "inertiajs/inertia-laravel": "^2.0",
         "laravel/framework": "^12.0",
+<<<<<<< HEAD
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.10.1",
         "tightenco/ziggy": "^2.0"
+=======
+        "laravel/tinker": "^2.10.1"
+>>>>>>> 6089fa36348632ee7f80c95b3ff2d9bcc5b60332
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
